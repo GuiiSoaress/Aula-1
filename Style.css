@@ -10,14 +10,42 @@
 
 body{
     text-align: center;
-    background-color: rgb(0, 0, 0);
+    background-color: #f1f1f1f;
     
 }
-h1, h3, p{
-    color: rgb(255, 255, 255);
+h3, p{
+    color: rgb(0, 0, 0);
 }
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
 
 h2{
     color: rgb(245, 134, 8);
 }
 
+nav{
+   background-color:  #9400d3;
+    height: 40px;
+    width: 100%;
+
+
+}
+ul{
+    color: #ffff;
+    list-style: none;
+    text-align: center;
+    display: block;
+    
+
+}
+
+li{
+    display: inline;
+    color: rgb(255, 255, 255);
+    padding: 50px 16px 0px 0px;
+    text-decoration: none;
+
+}
